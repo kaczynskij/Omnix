@@ -1,4 +1,4 @@
 .settings
 bin/
-targets/
+targets/*.*
 src/main/resources/application.local.conf
